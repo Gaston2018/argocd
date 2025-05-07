@@ -1,0 +1,2 @@
+# argocd
+Instalación ArgoCD
